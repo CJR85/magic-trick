@@ -1,0 +1,24 @@
+# Magic Exercise
+#
+#
+#
+#
+#
+#
+#
+
+#Create a variable called secret_num & assign to any number:
+secret_num = 81
+# Increase number by 1
+secret_num += 1
+#Take new number & double it
+secret_num *= 2
+# Take new number & add four to it
+secret_num += 4
+#Take new number & divide by two
+secret_num /= 2
+#Take new number & subtract your original number from it
+secret_num -= 81
+
+# Print final result
+print(secret_num)
